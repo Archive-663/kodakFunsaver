@@ -56,3 +56,10 @@ Please use mirror lock up before inserting lens into place.
 # Samples
 
 ![Sample 001](https://github.com/Archive-663/kodakFunsaver/blob/main/SAMPLE/_MG_1422.jpg)
+![Sample 002](https://github.com/Archive-663/kodakFunsaver/blob/main/SAMPLE/_MG_1448.jpg)
+![Sample 003](https://github.com/Archive-663/kodakFunsaver/blob/main/SAMPLE/_MG_1449.jpg)
+![Sample 004](https://github.com/Archive-663/kodakFunsaver/blob/main/SAMPLE/_MG_1454.jpg)
+![Sample 005](https://github.com/Archive-663/kodakFunsaver/blob/main/SAMPLE/_MG_1456.jpg)
+![Sample 006](https://github.com/Archive-663/kodakFunsaver/blob/main/SAMPLE/_MG_1465.jpg)
+![Sample 007](https://github.com/Archive-663/kodakFunsaver/blob/main/SAMPLE/_MG_1472.jpg)
+![Sample 008](https://github.com/Archive-663/kodakFunsaver/blob/main/SAMPLE/_MG_1477.jpg)
