@@ -52,3 +52,7 @@ Helpful Links:
 # For DSLRs:
 
 Please use mirror lock up before inserting lens into place. 
+
+# Samples
+
+<img src="SAMPLE/_MG_1422.jpg" width: 20%>
