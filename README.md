@@ -55,4 +55,4 @@ Please use mirror lock up before inserting lens into place.
 
 # Samples
 
-![Sample 001](../SAMPLE/_MG_1422.jpg)
+![Sample 001](https://github.com/Archive-663/kodakFunsaver/blob/main/SAMPLE/_MG_1422.jpg)
