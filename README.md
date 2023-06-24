@@ -1,5 +1,4 @@
-# kodakFunsaver
- Lot no.004 | A Rehousing for Kodak Funsaver Lenses
+# Lot no.004 | A Rehousing for Kodak Funsaver Lenses
 
 Unexpect the Expected. digi-Process C-41 Lens Adapter for Kodak Funsaver by niveau.
 
