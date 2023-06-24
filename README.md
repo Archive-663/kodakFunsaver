@@ -31,6 +31,8 @@ What’s included in the STL download?
 
 - digi-Process C-41 Lightroom Preset
 
+    [Lightroom Presets](/lightroomPresets)
+
     This preset develops your photos for a flat base reminiscent of old Kodak negative scans. It does not remove the distortion as it is a characteristic of the lens and of the photos that are produced with film. If you want to remove the distortion; set your distortion slider to ~ -12.
 
 What you’ll need:
