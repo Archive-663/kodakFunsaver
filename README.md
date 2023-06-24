@@ -19,11 +19,11 @@ What’s included in the STL download?
     
 A 49mm Lens Cap:
 
--Left and Right Tabs
+- Left and Right Tabs
 
--A Spring
+- A Spring
 
--The Main Lens Cap Body
+- The Main Lens Cap Body
 
 A Rear Lens Cap for E-Mount Lenses
 
