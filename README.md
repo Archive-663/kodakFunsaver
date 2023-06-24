@@ -31,7 +31,7 @@ What’s included in the STL download?
 
 - digi-Process C-41 Lightroom Preset
 
-    [Lightroom Presets](/Archive-663/lightroomPresets)
+    [Lightroom Presets](https://github.com/Archive-663/lightroomPresets)
 
     This preset develops your photos for a flat base reminiscent of old Kodak negative scans. It does not remove the distortion as it is a characteristic of the lens and of the photos that are produced with film. If you want to remove the distortion; set your distortion slider to ~ -12.
 
@@ -39,7 +39,7 @@ What you’ll need:
 
 - Like 3-10x m1.6 x 5mm machine screws
 
-- Lens from a Kodak FunSaver
+- Lens from a Kodak FunSaver (2015 and newer)
 
 Helpful Links:
 
@@ -49,10 +49,6 @@ Helpful Links:
 
 - Kodak FunSaver Lens Adapter Assembly
 
-# Requires:
-> Kodak Funsaver lens from at least 2015
-> 
-> an assortment of m1.6 x 5mm pan head screws
-
 # For DSLRs:
+
 Please use mirror lock up before inserting lens into place. 
