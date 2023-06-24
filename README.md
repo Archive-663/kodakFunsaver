@@ -16,20 +16,18 @@ The loudness of noise is a link to the past. A link to a time when we waited for
 Nostalgia — it sells.
 
 What’s included in the STL download?
-
-    The Standard 49mm Filter Thread Face-plate with 17mm Thread for using a Ulanzi smartphone anamorphic lens.
-
+    
 A 49mm Lens Cap:
 
-    Left and Right Tabs
+-Left and Right Tabs
 
-    A Spring
+-A Spring
 
-    The Main Lens Cap Body
+-The Main Lens Cap Body
 
 A Rear Lens Cap for E-Mount Lenses
 
-The Lens Adapter
+The Lens Rehousing
 
 digi-Process C-41 Lightroom Preset
 
