@@ -4,6 +4,7 @@
 
 # Requires:
 > Kodak Funsaver lens from at least 2015
+> 
 > an assortment of m1.6 x 5mm pan head screws
 
 # For DSLRs:
