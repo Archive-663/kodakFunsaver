@@ -25,27 +25,27 @@ What’s included in the STL download?
 
   - The Main Lens Cap Body
 
-A Rear Lens Cap for E-Mount Lenses
+- A Rear Lens Cap for E-Mount Lenses
 
-The Lens Rehousing
+- The Lens Rehousing
 
-digi-Process C-41 Lightroom Preset
+- digi-Process C-41 Lightroom Preset
 
     This preset develops your photos for a flat base reminiscent of old Kodak negative scans. It does not remove the distortion as it is a characteristic of the lens and of the photos that are produced with film. If you want to remove the distortion; set your distortion slider to ~ -12.
 
 What you’ll need:
 
-3x m1.6 x 5mm machine screws
+- Like 3-10x m1.6 x 5mm machine screws
 
-Lens from a Kodak FunSaver
+- Lens from a Kodak FunSaver
 
 Helpful Links:
 
-Kodak FunSaver Disassembly
+- Kodak FunSaver Disassembly
 
-Kodak FunSaver Lens Removal
+- Kodak FunSaver Lens Removal
 
-Kodak FunSaver Lens Adapter Assembly
+- Kodak FunSaver Lens Adapter Assembly
 
 # Requires:
 > Kodak Funsaver lens from at least 2015
