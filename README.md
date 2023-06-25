@@ -48,11 +48,11 @@ Helpful Links:
 
 - Kodak FunSaver Lens Adapter Assembly
 
-# For DSLRs:
+## For DSLRs:
 
 Please use mirror lock up before inserting lens into place. 
 
-# Samples
+## Samples
 
 ![Sample 001](https://github.com/Archive-663/kodakFunsaver/blob/main/SAMPLE/_MG_1422.jpg)
 ![Sample 002](https://github.com/Archive-663/kodakFunsaver/blob/main/SAMPLE/_MG_1448.jpg)
