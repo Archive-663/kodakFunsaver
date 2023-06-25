@@ -42,11 +42,11 @@ Nostalgia — it sells.
 
 ### Helpful Links:
 
-- Kodak FunSaver Disassembly
+- [Kodak FunSaver Disassembly](https://www.youtube.com/watch?v=eMyq5sUIDkU)
 
-- Kodak FunSaver Lens Removal
+- [Kodak FunSaver Lens Removal](https://www.youtube.com/watch?v=mniP1P2PrpM)
 
-- Kodak FunSaver Lens Adapter Assembly
+- [Kodak FunSaver Lens Adapter Assembly](https://www.youtube.com/watch?v=7Ed5-oDCAb8)
 
 ## For DSLRs:
 
