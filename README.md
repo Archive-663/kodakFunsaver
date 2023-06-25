@@ -34,13 +34,13 @@ Nostalgia — it sells.
 
     This preset develops your photos for a flat base reminiscent of old Kodak negative scans. It does not remove the distortion as it is a characteristic of the lens and of the photos that are produced with film. If you want to remove the distortion; set your distortion slider to ~ -12.
 
-What you’ll need:
+### What you’ll need:
 
 - Like 3-10x m1.6 x 5mm machine screws
 
 - Lens from a Kodak FunSaver (2015 and newer)
 
-Helpful Links:
+### Helpful Links:
 
 - Kodak FunSaver Disassembly
 
