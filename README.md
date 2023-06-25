@@ -50,7 +50,7 @@ Nostalgia — it sells.
 
 ## For DSLRs:
 
-Please use mirror lock up before inserting lens into place. Additionally, some DSLRs from Canon no longer allow mirror lock up to function like it did on previous models. The 5d Mark IV, and the 6d Mark II don't work the same as the previous models so they will not allow this lens to work as designed. 
+Please use mirror lock up before inserting lens into place. Additionally, some DSLRs from Canon no longer allow mirror lock up to function like it did on previous models. The 5d Mark IV, and the 6d Mark II don't work the same as the previous models so they will not allow this lens to work as designed. There will be more than what's listed here, so check your camera to see if it still supports firing the shutter without checking to see if the mirror is actuating. 
 
 ## Samples
 
