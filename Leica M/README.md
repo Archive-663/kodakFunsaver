@@ -1,7 +1,5 @@
 ## Kodak Funsaver lens rehousing for Leica M
 
-![nishiKodakforLeicaM](https://github.com/Archive-663/nishiKodak/blob/main/Leica%20M/ASSETS/GMP09225.jpg)
-
 ### Features:
 - 30mm focal length
 - Fixed ~f11 aperture
