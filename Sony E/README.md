@@ -8,9 +8,6 @@
 - Available in: Canon EF, EF-S, FD, RF; Fuji X; Leica M; M42; Nikon F DX, F FX, Z; Sony E
 
 ### What you’ll need:
-- A few of M1.6 x 5mm machine screws (PETG)
-  or
-- A few of M1.6 x 5mm self tapping screws (PETG or ABS)
 - Lens from a Kodak FunSaver (2015 and newer)
 - Viewfinder lenses from a Kodak FunSaver (2015 or newer) for
   
@@ -19,8 +16,6 @@
 - [49mm Lens Cap](https://github.com/Archive-663/lensCaps)
 
 ### What would be helpful:
-- M1.4 drill bit
-- M1.8/M2 drill bit
 - digi-Process C-41 Lightroom Preset
 
     [Lightroom Presets](https://github.com/Archive-663/lightroomPresets)
@@ -42,10 +37,6 @@ Generally, all my designs have chamfers on the print face of the STL.
 Please view the printOrientation.3mf file for help with orienting the parts on the printer bed. 
 
 ### Assembly help:
-I suggest drilling holds to their correct tap size before tapping. The m1.6 holes should be drilled out to 1.4 then tapped with the m1.6 tap. The Rotator holes should be drilled out with an m2 or m1.8 drill bit.
-
-When assembling the rotating assemblies use some synthetic grease similar to Super Lube PTFE or keycap lube to make the rotate function smoother. 
-
 Please view the _assembly.stp file for help in parts orientation. If you do not have a CAD program, <a href="https://www.freecad.org/downloads.php" target="_blank">download FreeCAD</a> to view the assembly file and better understand how it should assemble.
 
 ### Help support Archive 663 with a dontation or monthly sub
