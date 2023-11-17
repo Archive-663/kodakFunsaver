@@ -1,5 +1,9 @@
 ## Kodak Funsaver lens rehousing for Micro Four Thirds
 
+![KFS_MFT_1](https://github.com/Archive-663/kodakFunsaver/blob/main/ASSETS/kodakFunsaver_MFT.jpg)
+![KFS_MFT_2](https://github.com/Archive-663/kodakFunsaver/blob/main/ASSETS/kodakFunsaver_MFT_1.jpg)
+![KFS_MFT_3](https://github.com/Archive-663/kodakFunsaver/blob/main/ASSETS/kodakFunsaver_MFT_2.jpg)
+
 ### Features:
 - Breech-lock mounting ring for DSLR/SLR cameras
 - Standard mounting for Mirrorless cameras

@@ -1,5 +1,9 @@
 ## Kodak Funsaver lens rehousing for Canon RF
 
+![KFS_canonRF_1](https://github.com/Archive-663/kodakFunsaver/blob/main/ASSETS/kodakFunsaver_canonRF.jpg)
+![KFS_canonRF_2](https://github.com/Archive-663/kodakFunsaver/blob/main/ASSETS/kodakFunsaver_canonRF_1.jpg)
+![KFS_canonRF_3](https://github.com/Archive-663/kodakFunsaver/blob/main/ASSETS/kodakFunsaver_canonRF_2.jpg)
+
 ### Features:
 - Breech-lock mounting ring for DSLR/SLR cameras
 - Standard mounting for Mirrorless cameras

@@ -1,5 +1,9 @@
 ## Kodak Funsaver lens rehousing for M42
 
+![KFS_M42_1](https://github.com/Archive-663/kodakFunsaver/blob/main/ASSETS/kodakFunsaver_M42.jpg)
+![KFS_M42_2](https://github.com/Archive-663/kodakFunsaver/blob/main/ASSETS/kodakFunsaver_M42_1.jpg)
+![KFS_M42_3](https://github.com/Archive-663/kodakFunsaver/blob/main/ASSETS/kodakFunsaver_M42_2.jpg)
+
 ### Features:
 - Breech-lock mounting ring for DSLR/SLR cameras
 - Standard mounting for Mirrorless cameras

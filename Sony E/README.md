@@ -2,7 +2,7 @@
 
 ![KFS_sonyE_1](https://github.com/Archive-663/kodakFunsaver/blob/main/ASSETS/kodakFunsaver_sonyE.jpg)
 ![KFS_sonyE_2](https://github.com/Archive-663/kodakFunsaver/blob/main/ASSETS/kodakFunsaver_sonyE_1.jpg)
-![KFS_sonyE_2](https://github.com/Archive-663/kodakFunsaver/blob/main/ASSETS/kodakFunsaver_sonyE_2.jpg)
+![KFS_sonyE_3](https://github.com/Archive-663/kodakFunsaver/blob/main/ASSETS/kodakFunsaver_sonyE_2.jpg)
 
 ### Features:
 - Breech-lock mounting ring for DSLR/SLR cameras

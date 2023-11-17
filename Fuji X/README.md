@@ -1,5 +1,9 @@
 ## Kodak Funsaver lens rehousing for Fuji X
 
+![KFS_fujiX_1](https://github.com/Archive-663/kodakFunsaver/blob/main/ASSETS/kodakFunsaver_fujiX.jpg)
+![KFS_fujiX_2](https://github.com/Archive-663/kodakFunsaver/blob/main/ASSETS/kodakFunsaver_fujiX_1.jpg)
+![KFS_fujiX_3](https://github.com/Archive-663/kodakFunsaver/blob/main/ASSETS/kodakFunsaver_fujiX_2.jpg)
+
 ### Features:
 - Breech-lock mounting ring for DSLR/SLR cameras
 - Standard mounting for Mirrorless cameras

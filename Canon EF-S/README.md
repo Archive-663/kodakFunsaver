@@ -1,5 +1,9 @@
 ## Kodak Funsaver lens rehousing for Canon EF-S
 
+![KFS_canonEF-S_1](https://github.com/Archive-663/kodakFunsaver/blob/main/ASSETS/kodakFunsaver_canonEF-S.jpg)
+![KFS_canonEF-S_2](https://github.com/Archive-663/kodakFunsaver/blob/main/ASSETS/kodakFunsaver_canonEF-S_1.jpg)
+![KFS_canonEF-S_3](https://github.com/Archive-663/kodakFunsaver/blob/main/ASSETS/kodakFunsaver_canonEF-S_2.jpg)
+
 ### Features:
 - Breech-lock mounting ring for DSLR/SLR cameras
 - Standard mounting for Mirrorless cameras
