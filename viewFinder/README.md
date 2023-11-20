@@ -3,6 +3,10 @@
 ### Features:
 - 30ish mm field of view
 
+### What's in this lot:
+- Square Version (easier to print and assemble)
+- Round Version
+
 ### What you’ll need:
 - Viewfinder lenses from a Kodak FunSaver (2015 or newer)
 
