@@ -12,6 +12,7 @@
 
 ### What you’ll need:
 - Viewfinder lenses from a Kodak FunSaver (2015 or newer)
+- 4x - M1.6 x 5mm self tapping screws (Square version only)
 
 ### What would be helpful:
 - Micro files
