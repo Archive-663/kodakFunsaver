@@ -1,5 +1,8 @@
 ## A Rehousing for the Kodak Funsaver Viewfinder
 
+![viewFinder_SQ](https://github.com/Archive-663/kodakFunsaver/blob/main/viewFinder/ASSETS/PANA1783.jpg)
+![viewFinder_round](https://github.com/Archive-663/kodakFunsaver/blob/main/viewFinder/ASSETS/GMP01690.jpg)
+
 ### Features:
 - 30ish mm field of view
 
