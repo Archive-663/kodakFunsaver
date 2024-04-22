@@ -11,6 +11,9 @@
 - Fixed ~f11 aperture
 - Available in: Canon EF, EF-S, FD, RF; Fuji X; Leica M; M42; Nikon F DX, F FX, Z; Sony E
 
+### Compatibility Note:
+You need a Nikon F body that allows for mirror lock up. Some newer F FX cameras may not allow mirror lock up with something in the path of the mirror. Just make sure you have mirror lock up. Tested on a Nikon D700.
+
 ### What you’ll need:
 - A few of M1.6 x 5mm machine screws (PETG)
   or
