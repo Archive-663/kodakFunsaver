@@ -21,6 +21,7 @@
   [Kodak Funsaver Viewfinder Housing](https://github.com/Archive-663/kodakFunsaver/tree/main/viewFinder)
   
 - [49mm Lens Cap](https://github.com/Archive-663/lensCaps)
+- - An EF body with Mirror Lock Up. There are newer EF cameras that don't allow a 'hardware' mirror lock up. I know the Canon 6D (sure an EF camera) doesn't allow you to physically have something locking up the mirror when you take a photo. It will throw up an ERR code and should be reset once you turn the camera off and back on with the lens removed. It has something to do with the firmware and how the camera needs to check if the mirror has fallen back into place or something. But the main take away is that you need to have Mirror Lock up mode enable that stays locked up even after taking a photo. Tested on a Canon 5DC. 
 
 ### What would be helpful:
 - M1.4 drill bit
