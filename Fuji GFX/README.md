@@ -1,6 +1,6 @@
 ## Kodak Funsaver lens rehousing for Fuji GFX
 
-![KFS_fujiGFX_1](https://github.com/Archive-663/kodakFunsaver/blob/main/ASSETS/kodakFunsaver_fujiGFX.jpg)
+![KFS_fujiGFX_1](https://github.com/Archive-663/kodakFunsaver/blob/main/Fuji%20GFX/ASSETS/kodakfunsaver_fujiGFX.jpg)
 
 ### Features:
 - Standard mounting for Mirrorless cameras
