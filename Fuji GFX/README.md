@@ -34,45 +34,37 @@ No Edits
   <img src="https://github.com/Archive-663/kodakFunsaver/blob/main/Fuji%20GFX/ASSETS/noEdit/NOPP_4K%20(6).jpg" width="33%" />
 </p>
 <p float="left">
-  <img src="https://github.com/Archive-663/kodakFunsaver/blob/main/Fuji%20GFX/ASSETS/noEdit/NOPP_4K%20(7).jpg" width="33%" />
-  <img src="https://github.com/Archive-663/kodakFunsaver/blob/main/Fuji%20GFX/ASSETS/noEdit/NOPP_4K%20(8).jpg" width="33%" />
-  <img src="https://github.com/Archive-663/kodakFunsaver/blob/main/Fuji%20GFX/ASSETS/noEdit/NOPP_4K%20(13).jpg" width="33%" />
-</p>
-<p float="left">
   <img src="https://github.com/Archive-663/kodakFunsaver/blob/main/Fuji%20GFX/ASSETS/noEdit/NOPP_4K%20(9).jpg" width="33%" />
   <img src="https://github.com/Archive-663/kodakFunsaver/blob/main/Fuji%20GFX/ASSETS/noEdit/NOPP_4K%20(10).jpg" width="33%" />
   <img src="https://github.com/Archive-663/kodakFunsaver/blob/main/Fuji%20GFX/ASSETS/noEdit/NOPP_4K%20(11).jpg" width="33%" />
 </p>
-
-
-![Sample 001](https://github.com/Archive-663/kodakFunsaver/blob/main/Fuji%20GFX/ASSETS/noEdit/NOPP_4K%20(1).jpg)
-![Sample 002](https://github.com/Archive-663/kodakFunsaver/blob/main/Fuji%20GFX/ASSETS/noEdit/NOPP_4K%20(2).jpg)
-![Sample 003](https://github.com/Archive-663/kodakFunsaver/blob/main/Fuji%20GFX/ASSETS/noEdit/NOPP_4K%20(3).jpg)
-![Sample 004](https://github.com/Archive-663/kodakFunsaver/blob/main/Fuji%20GFX/ASSETS/noEdit/NOPP_4K%20(4).jpg)
-![Sample 005](https://github.com/Archive-663/kodakFunsaver/blob/main/Fuji%20GFX/ASSETS/noEdit/NOPP_4K%20(5).jpg)
-![Sample 006](https://github.com/Archive-663/kodakFunsaver/blob/main/Fuji%20GFX/ASSETS/noEdit/NOPP_4K%20(6).jpg)
-![Sample 007](https://github.com/Archive-663/kodakFunsaver/blob/main/Fuji%20GFX/ASSETS/noEdit/NOPP_4K%20(7).jpg)
-![Sample 008](https://github.com/Archive-663/kodakFunsaver/blob/main/Fuji%20GFX/ASSETS/noEdit/NOPP_4K%20(8).jpg)
-![Sample 009](https://github.com/Archive-663/kodakFunsaver/blob/main/Fuji%20GFX/ASSETS/noEdit/NOPP_4K%20(9).jpg)
-![Sample 00](https://github.com/Archive-663/kodakFunsaver/blob/main/Fuji%20GFX/ASSETS/noEdit/NOPP_4K%20(10).jpg)
-![Sample 00](https://github.com/Archive-663/kodakFunsaver/blob/main/Fuji%20GFX/ASSETS/noEdit/NOPP_4K%20(11).jpg)
-![Sample 00](https://github.com/Archive-663/kodakFunsaver/blob/main/Fuji%20GFX/ASSETS/noEdit/NOPP_4K%20(12).jpg)
-![Sample 00](https://github.com/Archive-663/kodakFunsaver/blob/main/Fuji%20GFX/ASSETS/noEdit/NOPP_4K%20(13).jpg)
+<p float="left">
+  <img src="https://github.com/Archive-663/kodakFunsaver/blob/main/Fuji%20GFX/ASSETS/noEdit/NOPP_4K%20(7).jpg" width="33%" />
+  <img src="https://github.com/Archive-663/kodakFunsaver/blob/main/Fuji%20GFX/ASSETS/noEdit/NOPP_4K%20(8).jpg" width="33%" />
+  <img src="https://github.com/Archive-663/kodakFunsaver/blob/main/Fuji%20GFX/ASSETS/noEdit/NOPP_4K%20(13).jpg" width="33%" />
+</p>
 
 Post Processed
-![PostProcessed_Sample 001](https://github.com/Archive-663/kodakFunsaver/blob/main/Fuji%20GFX/ASSETS/postProcessed/PP_4K%20(1).jpg)
-![PostProcessed_Sample 002](https://github.com/Archive-663/kodakFunsaver/blob/main/Fuji%20GFX/ASSETS/postProcessed/PP_4K%20(2).jpg)
-![PostProcessed_Sample 003](https://github.com/Archive-663/kodakFunsaver/blob/main/Fuji%20GFX/ASSETS/postProcessed/PP_4K%20(3).jpg)
-![PostProcessed_Sample 004](https://github.com/Archive-663/kodakFunsaver/blob/main/Fuji%20GFX/ASSETS/postProcessed/PP_4K%20(4).jpg)
-![PostProcessed_Sample 005](https://github.com/Archive-663/kodakFunsaver/blob/main/Fuji%20GFX/ASSETS/postProcessed/PP_4K%20(5).jpg)
-![PostProcessed_Sample 006](https://github.com/Archive-663/kodakFunsaver/blob/main/Fuji%20GFX/ASSETS/postProcessed/PP_4K%20(6).jpg)
-![PostProcessed_Sample 007](https://github.com/Archive-663/kodakFunsaver/blob/main/Fuji%20GFX/ASSETS/postProcessed/PP_4K%20(7).jpg)
-![PostProcessed_Sample 008](https://github.com/Archive-663/kodakFunsaver/blob/main/Fuji%20GFX/ASSETS/postProcessed/PP_4K%20(8).jpg)
-![PostProcessed_Sample 009](https://github.com/Archive-663/kodakFunsaver/blob/main/Fuji%20GFX/ASSETS/postProcessed/PP_4K%20(9).jpg)
-![PostProcessed_Sample 010](https://github.com/Archive-663/kodakFunsaver/blob/main/Fuji%20GFX/ASSETS/postProcessed/PP_4K%20(10).jpg)
-![PostProcessed_Sample 011](https://github.com/Archive-663/kodakFunsaver/blob/main/Fuji%20GFX/ASSETS/postProcessed/PP_4K%20(11).jpg)
-![PostProcessed_Sample 012](https://github.com/Archive-663/kodakFunsaver/blob/main/Fuji%20GFX/ASSETS/postProcessed/PP_4K%20(12).jpg)
-![PostProcessed_Sample 013](https://github.com/Archive-663/kodakFunsaver/blob/main/Fuji%20GFX/ASSETS/postProcessed/PP_4K%20(13).jpg)
+<p float="left">
+  <img src="https://github.com/Archive-663/kodakFunsaver/blob/main/Fuji%20GFX/ASSETS/postProcessed/PP_4K%20(1).jpg" width="33%" />
+  <img src="https://github.com/Archive-663/kodakFunsaver/blob/main/Fuji%20GFX/ASSETS/postProcessed/PP_4K%20(2).jpg" width="33%" />
+  <img src="https://github.com/Archive-663/kodakFunsaver/blob/main/Fuji%20GFX/ASSETS/postProcessed/PP_4K%20(3).jpg" width="33%" />
+</p>
+<p float="left">
+  <img src="https://github.com/Archive-663/kodakFunsaver/blob/main/Fuji%20GFX/ASSETS/postProcessed/PP_4K%20(4).jpg" width="33%" />
+  <img src="https://github.com/Archive-663/kodakFunsaver/blob/main/Fuji%20GFX/ASSETS/postProcessed/PP_4K%20(5).jpg" width="33%" />
+  <img src="https://github.com/Archive-663/kodakFunsaver/blob/main/Fuji%20GFX/ASSETS/postProcessed/PP_4K%20(6).jpg" width="33%" />
+</p>
+<p float="left">
+  <img src="https://github.com/Archive-663/kodakFunsaver/blob/main/Fuji%20GFX/ASSETS/postProcessed/PP_4K%20(9).jpg" width="33%" />
+  <img src="https://github.com/Archive-663/kodakFunsaver/blob/main/Fuji%20GFX/ASSETS/postProcessed/PP_4K%20(10).jpg" width="33%" />
+  <img src="https://github.com/Archive-663/kodakFunsaver/blob/main/Fuji%20GFX/ASSETS/postProcessed/PP_4K%20(11).jpg" width="33%" />
+</p>
+<p float="left">
+  <img src="https://github.com/Archive-663/kodakFunsaver/blob/main/Fuji%20GFX/ASSETS/postProcessed/PP_4K%20(7).jpg" width="33%" />
+  <img src="https://github.com/Archive-663/kodakFunsaver/blob/main/Fuji%20GFX/ASSETS/postProcessed/PP_4K%20(8).jpg" width="33%" />
+  <img src="https://github.com/Archive-663/kodakFunsaver/blob/main/Fuji%20GFX/ASSETS/postProcessed/PP_4K%20(13).jpg" width="33%" />
+</p>
 
 ### Helpful Links:
 - [Kodak FunSaver Disassembly](https://www.youtube.com/watch?v=eMyq5sUIDkU)
