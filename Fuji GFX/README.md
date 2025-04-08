@@ -23,9 +23,7 @@
 
 ### Samples
 No Edits
-![Sample 001](https://github.com/Archive-663/kodakFunsaver/blob/main/Fuji%20GFX/ASSETS/noEdit/NOPP_4K%20(1).jpg)
-![Sample 002](https://github.com/Archive-663/kodakFunsaver/blob/main/Fuji%20GFX/ASSETS/noEdit/NOPP_4K%20(2).jpg)
-![Sample 003](https://github.com/Archive-663/kodakFunsaver/blob/main/Fuji%20GFX/ASSETS/noEdit/NOPP_4K%20(3).jpg)
+![Sample 001](https://github.com/Archive-663/kodakFunsaver/blob/main/Fuji%20GFX/ASSETS/noEdit/NOPP_4K%20(1).jpg) ![Sample 002](https://github.com/Archive-663/kodakFunsaver/blob/main/Fuji%20GFX/ASSETS/noEdit/NOPP_4K%20(2).jpg) ![Sample 003](https://github.com/Archive-663/kodakFunsaver/blob/main/Fuji%20GFX/ASSETS/noEdit/NOPP_4K%20(3).jpg)
 ![Sample 004](https://github.com/Archive-663/kodakFunsaver/blob/main/Fuji%20GFX/ASSETS/noEdit/NOPP_4K%20(4).jpg)
 ![Sample 005](https://github.com/Archive-663/kodakFunsaver/blob/main/Fuji%20GFX/ASSETS/noEdit/NOPP_4K%20(5).jpg)
 ![Sample 006](https://github.com/Archive-663/kodakFunsaver/blob/main/Fuji%20GFX/ASSETS/noEdit/NOPP_4K%20(6).jpg)
